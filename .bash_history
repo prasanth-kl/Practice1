@@ -123,3 +123,58 @@ git branch
 git branch -d practice1
 git log
 git branch
+git checkout brancha
+git branch
+ll
+rm fileb
+ll
+rm file 1b
+vi file1c
+ll
+cat file1c
+git checkout master
+git branch
+ll
+git status
+git add file1c
+git commit "third change" file1c
+git commit -m  "third change" file1c
+git b ranch
+git branch
+git push -u origin master
+git checkout brancha
+git branch
+ll
+touch filex
+touch filey
+touch filez
+ll
+git add .
+git commit -m  "new change" .
+git push -u origin brancha
+sudo su -
+git checkout -b branchb
+ll
+git checkout master
+ll
+ll
+git branch
+git checkout brancha
+ll
+git branch -m branchb branchab
+git branch
+git branch -m branchab branchb
+git branch
+git checkout branchb
+ll
+git branch
+ll
+git commit -m "branchb commit" filez
+touch file1d
+ll
+git commit -m "branchb commit" file1d
+git add file1d
+git commit -m "branchb commit" file1d
+ll
+git status branchb
+git status brancha
